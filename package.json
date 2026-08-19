@@ -1,0 +1,10 @@
+{
+  "name": "oddly-ai-agency-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animated AI creative agency and client reporting portal concept.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check script.js && node --check server.js"
+  }
+}
