@@ -3,4 +3,9 @@ node_modules/
 *.log
 server.js
 README.md
-
+.vercel/
+.edge-*/
+.chrome-*/
+.motion-*.png
+.local-*.png
+vercel-check.jpg
